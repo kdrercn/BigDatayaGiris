@@ -1,0 +1,6 @@
+{
+    "brand":"apple",
+    "name":"iphone 7",
+    "color":"black",
+    "date":"2020"
+}

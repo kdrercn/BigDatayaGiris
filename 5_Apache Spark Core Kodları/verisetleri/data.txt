@@ -1,0 +1,6 @@
+big data
+türkiye
+spark
+hadoop
+kafka
+elasticsearch
